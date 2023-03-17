@@ -4,6 +4,7 @@ public class Usuario {
 	private String senha;
 	private Cliente cliente;
 	private Empresa empresa;
+	
 
 	public Usuario() {
 		super();
